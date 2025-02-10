@@ -19,3 +19,7 @@ Skilled in Python, SQL, Data Visualization, and Web Development.
 Passionate about problem-solving and innovation.  
 Exploring the crossroads of Technology and Data Science.
 
+![Chat](https://img.shields.io/badge/Hi,%20I'm%20Your%20Name-gray?style=for-the-badge)  
+![Chat](https://img.shields.io/badge/A%20resilient%20ML%20engineer%20✨-gray?style=for-the-badge)  
+![Chat](https://img.shields.io/badge/Fall%20in%20love%20with%20LLM%20models%20❤️-gray?style=for-the-badge)  
+![Chat](https://img.shields.io/badge/Please%20reach%20out%20via%20LinkedIn...-gray?style=for-the-badge)
