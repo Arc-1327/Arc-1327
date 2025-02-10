@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Arc-1327/Arc-1327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Archana T Dharan
+Data Analytics and Machine Learning Enthusiast.
+Skilled in Python, SQL, Data Visualization, and Web Development.
+Passionate about problem-solving and innovation.  
+Exploring the crossroads of Technology and Data Science.
+
